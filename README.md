@@ -1,4 +1,4 @@
-## SCT_DS_TASK1(Data Science Intern)
+## SCT_DS_TASK01(Data Science Intern)
 
 # Task01:- Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
